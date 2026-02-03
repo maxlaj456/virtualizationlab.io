@@ -61,12 +61,16 @@ vagrant ssh -c "python3 /app/mixologyfy.py"
 
 ## Screenshots
 ### Application running
+![Application Running](images/screenshots/application-running/application-running.png)
 
 ### Before HTML modification 
+![Before HTML Modification](images/screenshots/before-html-modification/before-html-modification.png)
 
 ### After HTML modification 
+![After HTML Modification](images/screenshots/after-html-modification/after-html-modification.png)
 
 ### Synced folder demonstration
+![Synced Folder Demonstration](images/screenshots/synced-folder-demonstration/synced-folder-demonstration.png)
 
 ## What This Project Demonstrates
 - Infrastructure as Code
